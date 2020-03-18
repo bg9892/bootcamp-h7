@@ -23,7 +23,7 @@ jest
 
 # Screenshots
 
-![Index](ScreenShot1.png)
+![Index](/ScreenShot1.png)
 
 
 
