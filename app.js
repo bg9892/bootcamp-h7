@@ -78,6 +78,7 @@ const intern = [
     }
 ]
 
+// function to start prompts
 function start() {
     inquirer.prompt(employee).then(function (response) {
         const { type, name, id, email } = response;
