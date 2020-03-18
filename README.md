@@ -22,8 +22,8 @@ npm install
 jest
 
 # Screenshots
-
 ![Index](Assets/ScreenShot1.png)
+
 
 
 
