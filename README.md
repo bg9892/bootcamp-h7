@@ -22,7 +22,7 @@ npm install
 jest
 
 # Screenshots
-![Index](Assets/ScreenShot1.png)
+![Index](Assets/Screenshot1.png)
 
 
 
